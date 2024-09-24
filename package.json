@@ -1,0 +1,14 @@
+{
+  "name": "playwrighte2e",
+  "version": "1.0.0",
+  "description": "This is refer to Introduction to Playwright for End-to-End Testing with Debbie O'Brien | JS Drops on youtube.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.1",
+    "@types/node": "^22.5.5"
+  }
+}

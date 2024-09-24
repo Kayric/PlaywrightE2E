@@ -1,2 +1,2 @@
 # PlaywrightE2E
-This is refer to Introduction to Playwright for End-to-End Testing with Debbie O'Brien | JS Drops on youtube.
+Learn how to get started with Playwright for Online Shopping Website, including Login feature, Sorting, Add to cart, View Cart Detail and Checkout process.
